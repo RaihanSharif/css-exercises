@@ -1,0 +1,20 @@
+.odd-para {
+    color: black;
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu", sans-serif;
+}
+.special-para {
+    font-size: 24px;
+}
+
+#div1 {
+    color: #0000ff;
+    font-size: 40px;
+}
+
+#div2 {
+    color: black;
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
